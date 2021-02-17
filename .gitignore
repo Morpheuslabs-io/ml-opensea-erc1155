@@ -1,0 +1,9 @@
+build/
+flattened/
+node_modules/
+.env*
+*.DS_Store
+*-error.log
+.idea/
+yarn.lock
+package-lock.json
